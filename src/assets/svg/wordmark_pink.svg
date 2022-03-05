@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 99 16" width="99" height="16">
+	<title>wordmark_pink-svg</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 14px;fill: #fede5e;font-weight: 700;font-family: "Montserrat-Bold", "Montserrat" } 
+	</style>
+	<text id="Text layer 1" style="transform: matrix(1,0,0,1,50.417,12.833)" >
+		<tspan x="-49" y="0" class="t0">DEGENSWAP
+</tspan>
+	</text>
+</svg>
